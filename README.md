@@ -1,0 +1,2 @@
+# ConfiguracionNvim
+Configuración del NeoVim
