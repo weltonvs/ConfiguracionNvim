@@ -47,5 +47,8 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
-nnoremap <Leader>o o<Esc>^Da
-nnoremap <Leader>O O<Esc>^Da
+nnoremap <leader>o o<Esc>^Da
+nnoremap <leader>O O<Esc>^Da
+
+" Resetear el Vim despues de instalar algo
+nnoremap <leader>r :source ~/.config/nvim/init.vim<cr>

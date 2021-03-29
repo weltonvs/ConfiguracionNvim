@@ -10,3 +10,6 @@
 [submodule "autoload/plugged/onedark.vim"]
 	path = autoload/plugged/onedark.vim
 	url = ../../joshdick/onedark.vim.git
+[submodule "autoload/plugged/vim-multiple-cursors"]
+	path = autoload/plugged/vim-multiple-cursors
+	url = ../../terryma/vim-multiple-cursors.git
