@@ -7,3 +7,6 @@
 [submodule "autoload/plugged/auto-pairs"]
 	path = autoload/plugged/auto-pairs
 	url = ../../jiangmiao/auto-pairs.git
+[submodule "autoload/plugged/onedark.vim"]
+	path = autoload/plugged/onedark.vim
+	url = ../../joshdick/onedark.vim.git

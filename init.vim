@@ -7,3 +7,5 @@ source $HOME/.config/nvim/general/settings.vim
 " Archivo de configuración de las teclas de comandos usuales.
 source $HOME/.config/nvim/keys/mappings.vim
 
+" Archivo de configuración del thema onedark.
+source $HOME/.config/nvim/themes/onedark.vim
