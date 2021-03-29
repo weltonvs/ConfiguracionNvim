@@ -31,8 +31,8 @@ set showtabline=2								          " Mostrar siempre las pestañas.
 "set noshowmmode									        " Ya no necesitamos ver cosas como - INSERTAR -.
 set nobackup											        " Esto es recomendado por coc.
 set nowritebackup									        " Esto es recomendado por coc.
-set updatetime=300							          " Finalización más rápida.
-set timeoutlen=500							          " Por defecto, el tiempo de espera es 1000 ms.
+set updatetime=700							          " Finalización más rápida.
+set timeoutlen=800							          " Por defecto, el tiempo de espera es 1000 ms.
 set formatoptions-=cro						        " Detener la continuación de comentarios en la nueva línea.
 set clipboard=unnamedplus				          " Copiar y pegar entre vim y todo lo demás.
 "set autochdir										        " Su directorio de trabajo siempre será el mismo que su directorio de trabajo.
