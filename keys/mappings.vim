@@ -12,8 +12,8 @@ nnoremap <M-h>    :vertical resize -2<CR>
 nnoremap <M-l>    :vertical resize +2<CR>
 
 " Odio escapar más que cualquier otra cosa
-inoremap jk <Esc>
-inoremap kj <Esc>
+inoremap sd <Esc>
+inoremap kl <Esc>
 
 " MAYÚSCULAS fáciles
 inoremap <c-u> <ESC>viwUi
@@ -38,8 +38,8 @@ nnoremap <C-c> <Esc>
 inoremap <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
 
 "Mejor tabulación (<) hacia atrás y (>) hacia adelante
-vnoremap < <gv
-vnoremap > >gv
+vnoremap < <gv       " Pedira el número de lineas que van tabular a la izquierda.
+vnoremap > >gv       " Perida el número de lineas que van tabular a la derecha.
 
 " Mejor navegación por la ventana
 nnoremap <C-h> <C-w>h

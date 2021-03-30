@@ -13,3 +13,6 @@
 [submodule "autoload/plugged/vim-multiple-cursors"]
 	path = autoload/plugged/vim-multiple-cursors
 	url = ../../terryma/vim-multiple-cursors.git
+[submodule "autoload/plugged/coc.nvim"]
+	path = autoload/plugged/coc.nvim
+	url = ../../neoclide/coc.nvim.git
