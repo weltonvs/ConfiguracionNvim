@@ -51,4 +51,4 @@ nnoremap <leader>o o<Esc>^Da
 nnoremap <leader>O O<Esc>^Da
 
 " Resetear el Vim despues de instalar algo
-nnoremap <leader>r :source ~/.config/nvim/init.vim<cr>
+nnoremap <leader>rr :source ~/.config/nvim/init.vim<cr>
