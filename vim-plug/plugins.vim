@@ -19,6 +19,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
    Plug 'terryma/vim-multiple-cursors'   
    " Intellicense
    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+   Plug 'vim-airline/vim-airline'
+   Plug 'vim-airline/vim-airline-themes'
 call plug#end()
 
 " Automatically install missing plugins on startup
